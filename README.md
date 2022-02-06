@@ -1,1 +1,1 @@
-# TradeJournal-
+# TradeJournal
